@@ -1,0 +1,358 @@
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:40:22 CST 2017
+Description : Process 'sacpp_listener_sub' <6349> attached to shared memory
+Node        : hans-u16
+Process     : sacpp_listener_sub <6349>
+Thread      : main thread 7f7b4d853740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513842022.674448089/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:40:35 CST 2017
+Description : Termination request (signal 2) received from PID 6349 (self), UID 1000
+Node        : hans-u16
+Process     : sacpp_listener_sub <6349>
+Thread      : signalHandler 7f7b48c91700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/signalHandlerThread/os_signalHandler.c/631/0/1513842035.792303784/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:40:35 CST 2017
+Description : Process 'sacpp_listener_sub' <6349> detached from shared memory
+Node        : hans-u16
+Process     : sacpp_listener_sub <6349>
+Thread      : signalHandler 7f7b48c91700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513842035.801494478/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:40:40 CST 2017
+Description : Process 'sacpp_listener_sub' <6361> attached to shared memory
+Node        : hans-u16
+Process     : sacpp_listener_sub <6361>
+Thread      : main thread 7fd469101740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513842040.983431808/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:41:00 CST 2017
+Description : Termination request (signal 2) received from PID 6361 (self), UID 1000
+Node        : hans-u16
+Process     : sacpp_listener_sub <6361>
+Thread      : signalHandler 7fd46453f700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/signalHandlerThread/os_signalHandler.c/631/0/1513842060.151996020/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:41:00 CST 2017
+Description : Process 'sacpp_listener_sub' <6361> detached from shared memory
+Node        : hans-u16
+Process     : sacpp_listener_sub <6361>
+Thread      : signalHandler 7fd46453f700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513842060.166259292/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:41:08 CST 2017
+Description : Process 'sacpp_listener_sub' <6371> attached to shared memory
+Node        : hans-u16
+Process     : sacpp_listener_sub <6371>
+Thread      : main thread 7fe0faf3a740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513842068.401277343/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:41:14 CST 2017
+Description : Termination request (signal 2) received from PID 6371 (self), UID 1000
+Node        : hans-u16
+Process     : sacpp_listener_sub <6371>
+Thread      : signalHandler 7fe0f6378700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/signalHandlerThread/os_signalHandler.c/631/0/1513842074.775880089/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:41:14 CST 2017
+Description : Process 'sacpp_listener_sub' <6371> detached from shared memory
+Node        : hans-u16
+Process     : sacpp_listener_sub <6371>
+Thread      : signalHandler 7fe0f6378700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513842074.777446649/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:45:58 CST 2017
+Description : Process 'sacpp_listener_sub' <6422> attached to shared memory
+Node        : hans-u16
+Process     : sacpp_listener_sub <6422>
+Thread      : main thread 7effc1901740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513842358.798138260/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:46:24 CST 2017
+Description : Termination request (signal 2) received from PID 6422 (self), UID 1000
+Node        : hans-u16
+Process     : sacpp_listener_sub <6422>
+Thread      : signalHandler 7effbcd3f700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/signalHandlerThread/os_signalHandler.c/631/0/1513842384.365067776/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:46:24 CST 2017
+Description : Process 'sacpp_listener_sub' <6422> detached from shared memory
+Node        : hans-u16
+Process     : sacpp_listener_sub <6422>
+Thread      : signalHandler 7effbcd3f700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513842384.366747138/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:02:24 CST 2017
+Description : Process 'sacpp_listener_sub' <6507> attached to shared memory
+Node        : hans-u16
+Process     : sacpp_listener_sub <6507>
+Thread      : main thread 7fe340982740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513843344.539739689/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:02:26 CST 2017
+Description : Termination request (signal 2) received from PID 6507 (self), UID 1000
+Node        : hans-u16
+Process     : sacpp_listener_sub <6507>
+Thread      : signalHandler 7fe337bdd700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/signalHandlerThread/os_signalHandler.c/631/0/1513843346.565391073/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:02:26 CST 2017
+Description : Process 'sacpp_listener_sub' <6507> detached from shared memory
+Node        : hans-u16
+Process     : sacpp_listener_sub <6507>
+Thread      : signalHandler 7fe337bdd700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513843346.567046801/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:03:44 CST 2017
+Description : Process 'sacpp_listener_sub' <6530> attached to shared memory
+Node        : hans-u16
+Process     : sacpp_listener_sub <6530>
+Thread      : main thread 7f1e9b8ea740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513843424.961050228/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:03:54 CST 2017
+Description : Termination request (signal 2) received from PID 6530 (self), UID 1000
+Node        : hans-u16
+Process     : sacpp_listener_sub <6530>
+Thread      : signalHandler 7f1e96d28700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/signalHandlerThread/os_signalHandler.c/631/0/1513843434.205282877/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:03:54 CST 2017
+Description : Process 'sacpp_listener_sub' <6530> detached from shared memory
+Node        : hans-u16
+Process     : sacpp_listener_sub <6530>
+Thread      : signalHandler 7f1e96d28700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513843434.206680901/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:51 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_sub <4903>
+Thread      : spliced 7f31292bf700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513850691.059165000/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:51 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_sub <4903>
+Thread      : ddsi2 7f3106b4e700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513850691.116996158/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:51 CST 2017
+Description : SOAP service is reachable via port 38399
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_sub <4903>
+Thread      : cmsoap 7f3107851700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513850691.122777014/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:51 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_sub <4903>
+Thread      : cmsoap 7f3107851700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513850691.122900711/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:51 CST 2017
+Description : The durability service can be identified by ID: 545022141
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_sub <4903>
+Thread      : durability 7f3106eef700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513850691.343993313/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:54 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_pub <4964>
+Thread      : spliced 7f1fad06a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513850694.606689695/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:54 CST 2017
+Description : SOAP service is reachable via port 46679
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_pub <4964>
+Thread      : cmsoap 7f1faa313700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513850694.614522311/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:54 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_pub <4964>
+Thread      : cmsoap 7f1faa313700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513850694.614673361/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:54 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_pub <4964>
+Thread      : ddsi2 7f1fa9610700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513850694.630833059/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:55 CST 2017
+Description : The durability service can be identified by ID: 1424499397
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_pub <4964>
+Thread      : durability 7f1fa99b1700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513850695.738868058/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:57 CST 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_pub <4964>
+Thread      : ddsi2 7f1fa9610700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513850697.761611393/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:58 CST 2017
+Description : not accepting requests.
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_pub <4964>
+Thread      : cmsoap 7f1faa313700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513850698.617932701/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:58 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_pub <4964>
+Thread      : cmsoap 7f1faa313700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513850698.618042822/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:58 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_sub <4903>
+Thread      : conflictResolver 7f31067b7700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513850698.650557044/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:59 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_pub <4964>
+Thread      : durability 7f1fa99b1700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513850699.944206937/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:59 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_pub <4964>
+Thread      : spliced 7f1fad06a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513850699.960364342/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:04:59 CST 2017
+Description : Removed 8695 objects
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_pub <4964>
+Thread      : main thread 7f1fad04a740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513850699.963783126/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:05:05 CST 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_sub <4903>
+Thread      : ddsi2 7f3106b4e700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513850705.764215355/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:05:06 CST 2017
+Description : not accepting requests.
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_sub <4903>
+Thread      : cmsoap 7f3107851700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513850706.136070133/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:05:06 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_sub <4903>
+Thread      : cmsoap 7f3107851700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513850706.136165669/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:05:07 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_sub <4903>
+Thread      : durability 7f3106eef700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513850707.485187915/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:05:07 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_sub <4903>
+Thread      : spliced 7f31292bf700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513850707.560787503/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:05:07 CST 2017
+Description : Removed 8707 objects
+Node        : oliverke-VirtualBox
+Process     : sacpp_listener_sub <4903>
+Thread      : main thread 7f312929e740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513850707.663104847/0

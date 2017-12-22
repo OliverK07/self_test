@@ -1,0 +1,16 @@
+========================================================================================
+Context     : DDS::DomainParticipantFactory::create_participant
+Date        : Thu Dec 21 15:38:21 CST 2017
+Node        : hans-u16
+Process     : sacpp_listener_sub <6283>
+Thread      : main thread 7efd63a20740
+Internals   : DomainParticipantFactory.cpp/324/6.8.3/5c0cad1/c3bd0ae/-1
+----------------------------------------------------------------------------------------
+Report      : Unable to connect to domain id = <ANY>.
+              The most common causes of this error are an incorrect configuration file or
+              that OpenSpliceDDS is not running (when using shared memory mode).
+Internals   : u_participantNew/u_participant.c/234/773/1513841901.089218201
+----------------------------------------------------------------------------------------
+Report      : Cannot connect to domainId (0) and domainName (The default Domain).
+              Please make sure to start OpenSplice before creating a DomainParticipant.
+Internals   : user::u_domain::u_domainOpen/u_domain.c/1509/773/1513841901.089301368
